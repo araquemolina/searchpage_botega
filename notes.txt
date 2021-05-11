@@ -3,3 +3,8 @@ grid-template-columns with values like :repeat(auto-fit, minmax(100px, 1fr)); an
 
 justify-items and align-items seems to be a common way to center things.
 vh (viewHeight) is also used a lot
+
+css: in css you can target text with brackets ex.
+.this_class [type=text] {
+    ....
+}
