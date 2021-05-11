@@ -1,0 +1,5 @@
+working with display grid, seems every time when working with grids grid-template-rows is also use aswell as 
+grid-template-columns with values like :repeat(auto-fit, minmax(100px, 1fr)); and 1fr 1fr for columns
+
+justify-items and align-items seems to be a common way to center things.
+vh (viewHeight) is also used a lot
